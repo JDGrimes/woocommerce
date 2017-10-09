@@ -7,7 +7,7 @@ php:
   - 5.6
   - 7.0
   - 7.1
-
+#dd
 env:
   - WP_VERSION=latest WP_MULTISITE=0 PHP_LATEST_STABLE=7.1
   - WP_VERSION=trunk WP_MULTISITE=0 PHP_LATEST_STABLE=7.1
